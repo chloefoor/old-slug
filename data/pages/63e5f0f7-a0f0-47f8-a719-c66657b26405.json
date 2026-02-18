@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Page 1 yeah"
+        }
+      ]
+    }
+  ],
+  "title": "Page",
+  "parent": "ba42845e-fef2-498b-8095-4516e69d7683",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "page",
+  "created_at": "2026-02-18T22:44:00.471Z",
+  "created_by": "chloefoor",
+  "updated_at": "2026-02-18T22:44:00.471Z",
+  "updated_by": "chloefoor"
+}
